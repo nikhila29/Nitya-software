@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "fullName": "Leanne Graham",
+    "username": "Bret",
+    "address":"Gandimaisamma",
+    "phoneNumber": "1-770-736-8031 x56442",
+    "email": "Sincere@april.biz",
+    "website": "hildegard.org",
+    "company": "Romaguera-Crona"
+  },
+  {
+    "id": 2,
+    "fullName": "Ervin Howell",
+    "username": "Antonette",
+    "address": "victor plains",
+    "phoneNumber": "010-692-6593 x09125",
+    "email": "Shanna@melissa.tv",
+    "website": "anastasia.net",
+    "company":  "Deckow-Crist"
+     
+  },
+  {
+    "id": 3,
+    "fullName": "Clementine Bauch",
+    "username": "Samantha",
+    "address": "Douglas Extension",
+    "phoneNumber": "1-463-123-4447",
+    "email": "Nathan@yesenia.net",
+    "website": "ramiro.info",
+    "company": "Romaguera-Jacobson"
+    
+  },
+  {
+    "id": 4,
+    "fullName": "Patricia Lebsack",
+    "username": "Karianne",
+    "address": "Hoeger Mall",
+    "phoneNumber": "493-170-9623 x156",
+    "email": "Julianne.OConner@kory.org",
+    "website": "kale.biz",
+    "company": "Robel-Corkery"
+  },
+  {
+    "id": 5,
+    "fullName": "Chelsey Dietrich",
+    "username": "Kamren",
+    "address": "Skiles Walks",
+    "phoneNumber": "(254)954-1289",
+    "email": "Lucio_Hettinger@annie.ca",
+    "website": "demarco.info",
+    "company": "Keebler LLC"
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "Karley_Dach@jasper.info",
+    "address": "Norberto Crossing",
+    "phone": "1-477-935-8478 x6430",
+    "website": "ola.org",
+    "company": "Considine-Lockman"
+  },
+  {
+    "id": 7,
+    "fullName": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "address": "Rex Trail",
+    "phoneNumber": "210.067.6132",
+    "email": "Telly.Hoeger@billy.biz",
+    "website": "elvis.io",
+    "company": "Johns Group"
+  },
+  {
+    "id": 8,
+    "fullname": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "address": "Ellsworth Summit",
+    "phoneNumber": "586.493.6943 x140",
+    "email": "Sherwood@rosamond.me",
+    "website": "jacynthe.com",
+    "company": "Abernathy Group"
+  }
+]
